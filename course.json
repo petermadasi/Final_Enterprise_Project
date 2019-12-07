@@ -1,0 +1,40 @@
+{
+        "_id" : ObjectId("5deaf7d5179021ad222ab0c3"),
+        "name" : "CSAT",
+        "credits" : 160
+}
+{
+        "_id" : ObjectId("5deaf7d5179021ad222ab0c4"),
+        "name" : "CPCT",
+        "credits" : 130
+}
+{
+        "_id" : ObjectId("5deaf7d5179021ad222ab0c5"),
+        "name" : "BMAT",
+        "credits" : 120
+}
+{
+        "_id" : ObjectId("5deaf7d5179021ad222ab0c6"),
+        "name" : "MMET",
+        "credits" : 130
+}
+{
+        "_id" : ObjectId("5deaf7d5179021ad222ab0c7"),
+        "name" : "PMPT",
+        "credits" : 140
+}
+{
+        "_id" : ObjectId("5deaf7d5179021ad222ab0c8"),
+        "name" : "CCBT",
+        "credits" : 120
+}
+{
+        "_id" : ObjectId("5deaf7d5179021ad222ab0c9"),
+        "name" : "BSAT",
+        "credits" : 150
+}
+{
+        "_id" : ObjectId("5deaf7d5179021ad222ab0ca"),
+        "name" : "MAPD",
+        "credits" : 160
+}
