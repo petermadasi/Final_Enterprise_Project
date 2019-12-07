@@ -1,0 +1,139 @@
+{
+        "_id" : ObjectId("5deaf669179021ad222ab090"),
+        "name" : "Peter",
+        "age" : 24,
+        "address" : "Victoria",
+        "DOB" : "01-02-1992"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab091"),
+        "name" : "Veerpal",
+        "age" : 21,
+        "address" : "Brampton",
+        "DOB" : "15-12-1993"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab092"),
+        "name" : "Parvinder",
+        "age" : 23,
+        "address" : "Brampton",
+        "DOB" : "03-04-1990"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab093"),
+        "name" : "Vishnu",
+        "age" : 30,
+        "address" : "Toronto",
+        "DOB" : "06-05-1991"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab094"),
+        "name" : "Bhagya",
+        "age" : 14,
+        "address" : "Burlington",
+        "DOB" : "11-11-1994"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab095"),
+        "name" : "Sheenam",
+        "age" : 27,
+        "address" : "Downtown",
+        "DOB" : "22-09-1992"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab096"),
+        "name" : "Riya",
+        "age" : 28,
+        "address" : "Milton",
+        "DOB" : "08-10-1995"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab097"),
+        "name" : "Elle",
+        "age" : 30,
+        "address" : "Toronto",
+        "DOB" : "08-10-1999"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab098"),
+        "name" : "Bella",
+        "age" : 22,
+        "address" : "Hamilton",
+        "DOB" : "08-10-2000"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab099"),
+        "name" : "Emma",
+        "age" : 20,
+        "address" : "Scarborough",
+        "DOB" : "08-10-1995"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab09a"),
+        "name" : "Luna",
+        "age" : 19,
+        "address" : "Etobicoke",
+        "DOB" : "08-11-1990"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab09b"),
+        "name" : "Jack",
+        "age" : 18,
+        "address" : "Markham",
+        "DOB" : "08-10-1880"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab09c"),
+        "name" : "Jason",
+        "age" : 16,
+        "address" : "Toronto",
+        "DOB" : "08-10-1990"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab09e"),
+        "name" : "Harsh",
+        "age" : 19,
+        "address" : " Markham ",
+        "DOB" : "08-10-1992"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab09f"),
+        "name" : "Nawal",
+        "age" : 22,
+        "address" : " Milton ",
+        "DOB" : "08-10-1993"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab0a0"),
+        "name" : "Gabby",
+        "age" : 14,
+        "address" : " Etobicoke ",
+        "DOB" : "08-10-1994"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab0a1"),
+        "name" : "Megan",
+        "age" : 21,
+        "address" : " Markham ",
+        "DOB" : "08-10-1997"
+}
+{
+        "_id" : ObjectId("5deaf669179021ad222ab0a2"),
+        "name" : "Natalie",
+        "age" : 25,
+        "address" : " Scarborough ",
+        "DOB" : "09-09-1998"
+}
+{
+        "_id" : ObjectId("5deb0552223afd403449222a"),
+        "name" : "Gandhi",
+        "age" : 45,
+        "address" : "Jarvis",
+        "DOB" : "01-02-1980"
+}
+{
+        "_id" : ObjectId("5deb2c2b2ac83d3ce8adf712"),
+        "Name" : null,
+        "Price" : null,
+        "Desc" : null
+}
